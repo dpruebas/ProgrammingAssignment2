@@ -1,4 +1,4 @@
-## The functions makeCacheMatrix and makeCacheMatrix are useful for caching 
+## The functions makeCacheMatrix and cacheSolve are useful for caching 
 ## the inverse of a matrix (matrix inversion is usually a costly computation).
 
 
